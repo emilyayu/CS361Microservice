@@ -1,6 +1,6 @@
-# Encrypted Key Generator Microservice
-Microservice Description: Microservice that creates encrypted key similar to Caesar Cipher
-                          Returns to client encoded key that can be used to encrypt messages. 
+# Encrypted Key Microservice
+Microservice Description: Microservice that generates an encrypted key similar to a Caesar Cipher
+                          Returns to client an encoded key that can be used to encrypt messages, etc. 
                           Communication with microservice is via socket connection.
 
 
