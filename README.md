@@ -8,7 +8,6 @@ Microservice Description: Microservice that creates encrypted key similar to Cae
 1. Connect to socket using host = 'localhost' and port = 5000
 2. Send encoded 'Run' to the encryption_microservice server. 'Run' is case sensitive.
 <br>
-<br>
 <br>Example Call: s.send ( b 'Run' )
 
 
