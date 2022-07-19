@@ -1,4 +1,4 @@
-# CS361Microservice
+# Encrypted Key Generator Microservice
 Microservice Description: Microservice that creates encrypted key similar to Caesar Cipher
                           Returns to client encoded key that can be used to encrypt messages. 
                           Communication with microservice is via socket connection.
@@ -19,4 +19,4 @@ Microservice Description: Microservice that creates encrypted key similar to Cae
 
 
 # UML sequence diagram
-<img width="449" alt="image" src="https://user-images.githubusercontent.com/83041778/179863670-f22d8efe-ab36-43f5-a7c9-31fd308574c9.png">
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/83041778/179866490-ed777d30-60a8-4da2-878d-c48e8f136a06.png">
