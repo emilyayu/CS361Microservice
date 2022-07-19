@@ -11,8 +11,8 @@ Microservice Description: Microservice that creates encrypted key similar to Cae
 
 # Receiving Data
 1. Using socket receive data still using host = 'localhost' and port = 5000. 
-      msg = s.recv(1024) will be sufficient
-      where s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+      \nmsg = s.recv(1024) will be sufficient
+      \nwhere s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 2. Decode message and save for other use.
 
 
