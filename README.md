@@ -19,4 +19,4 @@ Microservice Description: Microservice that creates encrypted key similar to Cae
 
 
 # UML sequence diagram
-<img width="572" alt="image" src="https://user-images.githubusercontent.com/83041778/179866490-ed777d30-60a8-4da2-878d-c48e8f136a06.png">
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/83041778/179866825-7d5b4235-6926-4db0-a1d6-5b88418e0eb0.png">
