@@ -3,8 +3,9 @@
 # Description: Microservice that creates Caesar Cipher
 #              Outputs .txt file with encrypted key to be used to encrypt messages
 #
-#               REQUIREMENT: to run microservice, need 'encrypt-key.txt' to display the word 'run'.
-#               'Run' is not case-sensitve.
+#               REQUIREMENT: To run microservice, connect via socket on host = 'localhost' and port=5000
+#                                and send encoded 'Run' to receive return
+
 import string
 import time
 import random
